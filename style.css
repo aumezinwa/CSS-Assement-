@@ -1,0 +1,43 @@
+header{
+    background-color: darkgray;
+    text-align: center;
+
+}
+
+body{
+    background-color: white;
+
+}
+
+h1{ float: left;
+    text-align: center;
+   display: inline-block;
+    padding: 200px 300px;
+    font-size: 20px;
+    background: blue
+    
+
+}
+
+h2{
+    
+    background-color: red; 
+    display: inline-block;
+    padding: 200px 120px;
+    text-align: center;
+    float: right;
+    
+}
+
+footer{
+    background-color: green;
+    text-align: center;
+    
+}
+
+
+
+html body{ height: 100%;}
+#container{ min-height: 100%;}
+#main{overflow: auto;
+padding-bottom: 555px;}
